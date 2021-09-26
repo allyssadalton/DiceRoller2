@@ -2,7 +2,6 @@
 /*
 Random Dice Roller
 */
-language=C++
 
 #include <iostream>
 
